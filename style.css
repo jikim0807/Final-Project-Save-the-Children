@@ -1,0 +1,263 @@
+.kremlin {
+    font-family: kremlin-pro, sans-serif;
+}
+
+.mr-e {
+font-family: mr-eaves-xl-modern, sans-serif;
+}
+
+.happymonkey {
+    font-family: 'Happy Monkey', cursive;
+}
+
+.menu {
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    color: #5acac3;
+    text-align: right;
+}
+
+
+.main-quote {
+    color: #f6ce6e;
+    font-family: kremlin-pro-semi-exp, sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.sub-quote {
+    font-size: 22px;
+}
+
+#dropdownMenuButton {
+    background-color: #f6ce6e;
+    color: #000000;
+    border: #f6ce6e;
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+#dropdownMenuButton:hover {
+    background-color: #000000;
+    color: #f6ce6e;
+}
+
+#click {
+    background-color: #f6ce6e;
+    color: #000000;
+    border: #f6ce6e;
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+#click:hover {
+    background-color: #000000;
+    color: #f6ce6e;
+}
+
+.nav>li>a:hover {
+    color: white;
+}
+
+#dropdownMenu {
+    color: #000000;
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+#dropdownMenu:hover {
+    background-color: black;
+    color: #f6ce6e;
+}
+
+.title {
+    font-weight: 700;
+    text-align: center;
+    font-size: 55px;
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    background-color: white;
+}  
+
+
+.bold-menu {
+    font-size: 80px;
+    text-align: center;
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    padding-top: 8%;
+    padding-bottom: auto;
+    padding-left: auto;
+    padding-right:auto;
+}
+
+.bold-menu:hover{
+    color: #f6ce6e;
+}
+
+.explain {
+    font-size: 30px;
+    text-align: center;
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+
+
+.impact {
+        font-size: 45px;
+        font-family: 'Happy Monkey', cursive;
+        padding-top: 50px;
+        padding-left: 100px; 
+    }
+
+.impact-exp {
+    font-size: 22px;
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    padding-left: 100px; 
+    padding-right: 100px;
+}
+
+
+
+.learn-more {
+    text-decoration: underline;
+    color: #000000;
+    font-size: 30px;
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+
+.learn-more:hover {
+    color: gray;
+}
+
+
+
+.more {
+    text-decoration: underline;
+    color: #5acac3;
+    font-size: 35px;
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+.more:hover{
+    color: gray;
+}
+
+.news {
+        font-size: 35px;
+        font-family: mr-eaves-xl-modern, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+}
+
+.card-img {
+
+}
+
+#link-to {
+    text-decoration: underline;
+    color: #000000;
+    font-size: 35px;
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
+
+#link-to:hover {
+    color:#5acac3;
+}
+
+.dropdown {
+    margin-top: 0px;
+    background-color: #f6ce6e;
+}
+
+
+.footer {
+    padding-top: 4rem;
+    padding-bottom: 5rem;
+    background-color: #5acac3;
+    color: #fff;
+  }
+
+#footer-text {
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 300; 
+}
+
+.email,.password {
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+}
+
+#contact {
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+}
+
+
+#emailHelp{
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300; 
+    color: white;
+    
+}
+
+#sign-up {
+    font-family: mr-eaves-xl-modern, sans-serif;
+    background-color: #5acac3;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+#sign-up:hover{
+    background-color: white;
+    color: #5acac3;
+}
+
+#last {
+    font-family: mr-eaves-xl-modern, sans-serif;
+    font-size: 20px;
+}
+
+.icon {
+    font-size: 30px;
+    width: 40px;
+
+}
